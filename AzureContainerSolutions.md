@@ -1,3 +1,59 @@
 # 🌨 Azure Container Solutions
 
 #### 1. Azure Container Registry to manage container images
+
+Azure Container Instances (ACI) offers the fastest and simplest way to run a container in Azure, without having to manage any virtual machines and without having to adopt a higher-level service.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###### 🌼 References:
+
+https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/
+
+
