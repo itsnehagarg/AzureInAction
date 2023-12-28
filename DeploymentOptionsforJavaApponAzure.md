@@ -19,6 +19,7 @@
 Source-code deployment: You commit your source code to a Git repository and the cloud provider runs a process that compiles, builds, and packages the application.
 JAR, WAR, or EAR file deployment: You package your application, usually as an executable JAR (Java ARchive) file, but WAR (Web Application ARchive), EAR (Enterprise Application ARchive), and other file formats are also possible. The cloud provider then runs the executable file.
 
+![image](https://github.com/itsnehagarg/AzureInAction/assets/20385826/38ce0982-ab77-4ff6-8b21-8dea189b2752)
 
 
 
@@ -26,5 +27,9 @@ JAR, WAR, or EAR file deployment: You package your application, usually as an ex
 
 References:
 https://learn.microsoft.com/en-us/training/modules/java-target-destinations/2-application-deployment-types
+
+https://learn.microsoft.com/en-us/training/modules/deploy-java-spring-boot-app-service-mysql/
+
+
 
 
